@@ -4,7 +4,7 @@
 
 > **Note**: <span style="color: orange;">This is an educational and experimental template designed to explore agentic systems with Dapr, UV, and an agent engine like OpenAI Agents SDK. Use it to learn and experiment!</span>
 
-A UV-based template for **developing and deploying agentic systems**—autonomous, AI-driven agents powered by a **distributed runtime foundation** with Dapr. Featuring a **Chat Agent** and a **Memory Agent**, built with the OpenAI Agents SDK, this package offers a simple, flexible base for agent-driven projects. It works with any agent engine (e.g., LangGraph, CrewAI, Dapr Agents, or pure Python) and scales from local tinkering to cloud deployment. Dive into the code below to see how it works!
+<p> A UV-based template for **developing and deploying agentic systems**—autonomous, AI-driven agents powered by a **distributed runtime foundation** with Dapr. Featuring a **Chat Agent** and a **Memory Agent**, built with the OpenAI Agents SDK, this package offers a simple, flexible base for agent-driven projects. It works with any agent engine (e.g., LangGraph, CrewAI, Dapr Agents, or pure Python) and scales from local tinkering to cloud deployment. Dive into the code below to see how it works! </p>
 ---
 
 ## Quick Start 
